@@ -1,0 +1,8 @@
+_BeginJava_
+a="Hola Mundo";
+System.out.println(a);
+_EndJava_
+<?php
+$c="Esta es otra cadena";
+echo $c;
+?>
